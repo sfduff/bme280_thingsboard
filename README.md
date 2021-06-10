@@ -4,10 +4,10 @@
 
 Enalbe the i2c interface
 
-# update and reboot host
+# Update and reboot host
 ``sudo apt-get update -y && sudo apt-get upgrade -y && sudo reboot now``
 
-#Install drivers and software 
+# Install drivers and software 
 
 ``sudo apt-get install  i2c-tools  python3-pip  i2c-tools  git  -y``
 
