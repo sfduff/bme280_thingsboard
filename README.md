@@ -1,7 +1,8 @@
 # bme280_thingsboard
 
-sudo raspi-config
-	# turn on i2c port
+''sudo raspi-config''
+
+Enalbe the i2c interface
 
 # update and reboot host
 ``sudo apt-get update -y && sudo apt-get upgrade -y && sudo reboot now``
